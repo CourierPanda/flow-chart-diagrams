@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T14:01:23.411Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="lD1c4p9r6kfmYYR35f2B" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T14:35:02.281Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="zPdKo-UvxTMLImBRqd30" version="14.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,16 +25,16 @@
         <mxCell id="4xuauZO6KgulbA25bbjS-7" value="&lt;ul&gt;&lt;li&gt;Open for Delivery&lt;/li&gt;&lt;li&gt;Accepted for Delivery&lt;/li&gt;&lt;li&gt;Delivery Initiated&lt;/li&gt;&lt;li&gt;Delivery Successful&lt;/li&gt;&lt;li&gt;Delivery Failed&lt;/li&gt;&lt;li&gt;Delivery Cancelled&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="100" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4xuauZO6KgulbA25bbjS-8" value="Sender - Post Delivery Details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4xuauZO6KgulbA25bbjS-8" value="Sender - Publish a delivery item" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="291" y="50" width="246" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4xuauZO6KgulbA25bbjS-9" value="Statuses for Delivery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="80" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="e5LkPDUUJggaejYphgqV-0" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="e5LkPDUUJggaejYphgqV-0" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364" y="600" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e5LkPDUUJggaejYphgqV-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4xuauZO6KgulbA25bbjS-4" target="e5LkPDUUJggaejYphgqV-0">
+        <mxCell id="e5LkPDUUJggaejYphgqV-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4xuauZO6KgulbA25bbjS-4" target="e5LkPDUUJggaejYphgqV-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="620" as="sourcePoint" />
             <mxPoint x="440" y="570" as="targetPoint" />
