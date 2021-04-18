@@ -1,0 +1,7 @@
+Statuses for Delivery
+1. Open for Delivery - OD
+2. Accepted for Delivery - AD
+3. Delivery Initiated - DI
+4. Delivery Successful - DS
+5. Delivery Failed - DF
+6. Delivery Cancelled - DC
